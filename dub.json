@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"admin"
+	],
+	"copyright": "Copyright @ 2023, admin",
+	"description": "editor bookmark breakpoints debugger files",
+	"license": "GNU Public License Version 3.0",
+	"name": "galleygrubs"
+}
